@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Investigate Bravo Data Issue</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Investigate Bravo Data Issue</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">6ff033c4c923101091f9f06464832717</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 07:01:06</sys_created_on>
+        <sys_id>42b74ecfdb0a2010e420b08039961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Investigate Bravo Data Issue</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>sys_wizard_answer_42b74ecfdb0a2010e420b08039961934</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 07:01:06</sys_updated_on>
+        <table/>
+        <target_url>x_568222_fsm_investigate_bravo_data_issue.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</application>
+        <file_path/>
+        <instance_id>1c6f5076dbf037002f68c597059619c3</instance_id>
+        <instance_name>dev81591</instance_name>
+        <name>sys_wizard_answer_42b74ecfdb0a2010e420b08039961934</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Investigate Bravo Data Issue</answer><button_label/><dependent_value/><element/><name>Investigate Bravo Data Issue</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">6ff033c4c923101091f9f06464832717</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-05 07:01:06</sys_created_on><sys_id>42b74ecfdb0a2010e420b08039961934</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Investigate Bravo Data Issue</sys_name><sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package><sys_policy/><sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope><sys_update_name>sys_wizard_answer_42b74ecfdb0a2010e420b08039961934</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-05 07:01:06</sys_updated_on><table/><target_url>x_568222_fsm_investigate_bravo_data_issue.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1523284463</payload_hash>
+        <record_name>Investigate Bravo Data Issue</record_name>
+        <reverted_from/>
+        <source>ed161880db212010e420b08039961940</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-01-01 18:31:27</sys_created_on>
+        <sys_id>0beb2f83db4e2010e420b080399619e3</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>176bf3800180000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>c7eb2f83334e2010f7672dca4aab00e3</update_guid>
+        <update_guid_history>c7eb2f83334e2010f7672dca4aab00e3:-1523284463</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 14:18:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>18bde765a258419e887c6afc862ae264</sys_id>
+        <sys_metadata>42b74ecfdb0a2010e420b08039961934</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Investigate Bravo Data Issue</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_parent display_value="Task">6ff033c4c923101091f9f06464832717</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_scope_delete display_value="">9526c521070b416c9ed74824404c3644</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_42b74ecfdb0a2010e420b08039961934</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_42b74ecfdb0a2010e420b08039961934">0beb2f83db4e2010e420b080399619e3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 14:18:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

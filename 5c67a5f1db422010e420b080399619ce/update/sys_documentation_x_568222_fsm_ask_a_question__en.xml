@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Finance Service Management Case" language="en" table="x_568222_fsm_ask_a_question">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Finance Service Management Case</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <plural>Finance Service Management Cases</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-03 12:53:37</sys_created_on>
+            <sys_id>3235cd6edb8e6010e420b08039961991</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Finance Service Management Case</sys_name>
+            <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+            <sys_update_name>sys_documentation_x_568222_fsm_ask_a_question__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-10 14:30:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

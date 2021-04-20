@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="funding" table="x_568222_fsm_ask_a_question" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>funding</element>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-10 12:26:31</sys_created_on>
+            <sys_id>72aec9f12fbe60106d73d49df699b684</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>funding</sys_name>
+            <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+            <sys_update_name>sys_choice_x_568222_fsm_ask_a_question_funding</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-10 12:26:31</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>funding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ERP Remediation</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-10 12:26:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d9e8df12fbe60106d73d49df699b67c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-10 12:26:44</sys_updated_on>
+            <value>ERP Remediation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>funding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Local</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sequence>200</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-10 12:26:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07ae8df12fbe60106d73d49df699b67e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-10 12:27:13</sys_updated_on>
+            <value>Local</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>funding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Project</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sequence>300</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-10 12:27:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>81ce4df12fbe60106d73d49df699b6f0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-10 12:27:35</sys_updated_on>
+            <value>Project</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>funding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IT</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sequence>400</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-10 12:27:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8eecdf12fbe60106d73d49df699b6ba</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-10 12:27:59</sys_updated_on>
+            <value>IT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>funding</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Built by Run team</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sequence>500</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-10 12:28:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25fe85f12fbe60106d73d49df699b6eb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-10 12:28:14</sys_updated_on>
+            <value>Built by Run team</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

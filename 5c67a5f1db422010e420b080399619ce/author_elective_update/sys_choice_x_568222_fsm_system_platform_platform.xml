@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="platform" table="x_568222_fsm_system_platform" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>platform</element>
+            <name>x_568222_fsm_system_platform</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:56</sys_created_on>
+            <sys_id>97109ed72f5620106d73d49df699b680</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>platform</sys_name>
+            <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+            <sys_update_name>sys_choice_x_568222_fsm_system_platform_platform</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:56</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AMO</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e820ded72f5620106d73d49df699b683</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:00</sys_updated_on>
+            <value>AMO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Atlas</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd20ded72f5620106d73d49df699b6c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:03</sys_updated_on>
+            <value>Atlas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bravo App</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd20ded72f5620106d73d49df699b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:03</sys_updated_on>
+            <value>Bravo App</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BSAR</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23109ed72f5620106d73d49df699b6c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:56</sys_updated_on>
+            <value>BSAR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BtB</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2820ded72f5620106d73d49df699b68a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:01</sys_updated_on>
+            <value>BtB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BtB [Canada]</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0120ded72f5620106d73d49df699b6cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:03</sys_updated_on>
+            <value>BtB [Canada]</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW Atlas</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4020ded72f5620106d73d49df699b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:59</sys_updated_on>
+            <value>BW Atlas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW BARN</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c420ded72f5620106d73d49df699b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:59</sys_updated_on>
+            <value>BW BARN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW BART</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0420ded72f5620106d73d49df699b626</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:59</sys_updated_on>
+            <value>BW BART</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW BtB</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff109ed72f5620106d73d49df699b6e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:57</sys_updated_on>
+            <value>BW BtB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW BtB HANA</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4820ded72f5620106d73d49df699b614</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:58</sys_updated_on>
+            <value>BW BtB HANA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW BtB HANA [Canada]</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c20ded72f5620106d73d49df699b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:59</sys_updated_on>
+            <value>BW BtB HANA [Canada]</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW FiT</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3710ded72f5620106d73d49df699b611</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:58</sys_updated_on>
+            <value>BW FiT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW Fusion</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4820ded72f5620106d73d49df699b61b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:58</sys_updated_on>
+            <value>BW Fusion</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW GDSE</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8420ded72f5620106d73d49df699b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:59</sys_updated_on>
+            <value>BW GDSE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW HANA BtB</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb109ed72f5620106d73d49df699b6f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:58</sys_updated_on>
+            <value>BW HANA BtB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW LSR</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4820ded72f5620106d73d49df699b622</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:59</sys_updated_on>
+            <value>BW LSR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW Lynx</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff10ded72f5620106d73d49df699b60d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:58</sys_updated_on>
+            <value>BW Lynx</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW Mars</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7109ed72f5620106d73d49df699b6f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:58</sys_updated_on>
+            <value>BW Mars</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW Mercury</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4020ded72f5620106d73d49df699b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:58</sys_updated_on>
+            <value>BW Mercury</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW PandA</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33109ed72f5620106d73d49df699b6f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:58</sys_updated_on>
+            <value>BW PandA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW Stf</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb10ded72f5620106d73d49df699b60a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:58</sys_updated_on>
+            <value>BW Stf</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW Surgical Vision</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4020ded72f5620106d73d49df699b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:59</sys_updated_on>
+            <value>BW Surgical Vision</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CFin</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c20ded72f5620106d73d49df699b67c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:00</sys_updated_on>
+            <value>CFin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial Planning &amp; Reporting</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d920ded72f5620106d73d49df699b6ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:03</sys_updated_on>
+            <value>Commercial Planning &amp; Reporting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial Planning &amp; Reporting [Canada]</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7920121b2f5620106d73d49df699b639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:06</sys_updated_on>
+            <value>Commercial Planning &amp; Reporting [Canada]</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial Planning &amp; Reporting [NA]</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd20121b2f5620106d73d49df699b63c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:06</sys_updated_on>
+            <value>Commercial Planning &amp; Reporting [NA]</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial Planning &amp; Reporting [VisionCare]</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c620121b2f5620106d73d49df699b651</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:07</sys_updated_on>
+            <value>Commercial Planning &amp; Reporting [VisionCare]</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Corporate Bravo</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd20121b2f5620106d73d49df699b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:06</sys_updated_on>
+            <value>Corporate Bravo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CPC</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e020ded72f5620106d73d49df699b680</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:00</sys_updated_on>
+            <value>CPC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise Supply Chain</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1120ded72f5620106d73d49df699b6f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:04</sys_updated_on>
+            <value>Enterprise Supply Chain</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Finance GRM Vision Surgical</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8220121b2f5620106d73d49df699b655</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:07</sys_updated_on>
+            <value>Finance GRM Vision Surgical</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fusion</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e020ded72f5620106d73d49df699b687</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:01</sys_updated_on>
+            <value>Fusion</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>G2N</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f920121b2f5620106d73d49df699b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:05</sys_updated_on>
+            <value>G2N</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Galaxy [non-Russia]</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f420ded72f5620106d73d49df699b6a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:02</sys_updated_on>
+            <value>Galaxy [non-Russia]</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Galaxy [Russia]</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3820ded72f5620106d73d49df699b696</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:02</sys_updated_on>
+            <value>Galaxy [Russia]</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Global Compensation Planning</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5520ded72f5620106d73d49df699b6f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:04</sys_updated_on>
+            <value>Global Compensation Planning</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Global Functions</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9920ded72f5620106d73d49df699b6f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:04</sys_updated_on>
+            <value>Global Functions</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GRM Planning</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e520121b2f5620106d73d49df699b611</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:04</sys_updated_on>
+            <value>GRM Planning</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>InterCo Hub</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>67109ed72f5620106d73d49df699b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:57</sys_updated_on>
+            <value>InterCo Hub</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Journal Entry</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb109ed72f5620106d73d49df699b6bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:56</sys_updated_on>
+            <value>Journal Entry</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lynx</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c20ded72f5620106d73d49df699b69e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:02</sys_updated_on>
+            <value>Lynx</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mars</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c20ded72f5620106d73d49df699b68d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:01</sys_updated_on>
+            <value>Mars</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mercury</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4120ded72f5620106d73d49df699b6be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:02</sys_updated_on>
+            <value>Mercury</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NaVision [Ukraine]</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc20ded72f5620106d73d49df699b6a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:02</sys_updated_on>
+            <value>NaVision [Ukraine]</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf109ed72f5620106d73d49df699b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:58</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PandA</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3820ded72f5620106d73d49df699b691</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:01</sys_updated_on>
+            <value>PandA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Project One</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7420ded72f5620106d73d49df699b6ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:02</sys_updated_on>
+            <value>Project One</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SEA</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd20ded72f5620106d73d49df699b6f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:04</sys_updated_on>
+            <value>SEA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>StF</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c20ded72f5620106d73d49df699b699</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:02</sys_updated_on>
+            <value>StF</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Supply Chain GRM</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1520ded72f5620106d73d49df699b6fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:04</sys_updated_on>
+            <value>Supply Chain GRM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Supply Chain Planning</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b920121b2f5620106d73d49df699b626</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:05</sys_updated_on>
+            <value>Supply Chain Planning</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sustain</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd20ded72f5620106d73d49df699b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:03</sys_updated_on>
+            <value>Sustain</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tasks</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f109ed72f5620106d73d49df699b67f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:56</sys_updated_on>
+            <value>Tasks</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transformer</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e520121b2f5620106d73d49df699b615</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:05</sys_updated_on>
+            <value>Transformer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WEB GRM</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d20121b2f5620106d73d49df699b621</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:05</sys_updated_on>
+            <value>WEB GRM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WEB GRM Reporting</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a520121b2f5620106d73d49df699b61d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:05</sys_updated_on>
+            <value>WEB GRM Reporting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WW Consolidation</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5920121b2f5620106d73d49df699b600</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:04</sys_updated_on>
+            <value>WW Consolidation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WW GRM</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d20121b2f5620106d73d49df699b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:05</sys_updated_on>
+            <value>WW GRM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>platform</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ZBB</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce20121b2f5620106d73d49df699b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:06</sys_updated_on>
+            <value>ZBB</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

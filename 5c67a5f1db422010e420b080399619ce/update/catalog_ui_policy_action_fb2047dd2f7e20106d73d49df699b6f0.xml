@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:3e8f7e9d2f7e20106d73d49df699b68f</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-09 07:25:44</sys_created_on>
+        <sys_id>fb2047dd2f7e20106d73d49df699b6f0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>onevision</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_fb2047dd2f7e20106d73d49df699b6f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-09 12:49:08</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide/Show OneVision Field">9000c3dd2f7e20106d73d49df699b698</ui_policy>
+        <variable>onevision</variable>
+        <variable_set display_value="Region-Sector-OneVision">f60ef6d92f7e20106d73d49df699b67d</variable_set>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

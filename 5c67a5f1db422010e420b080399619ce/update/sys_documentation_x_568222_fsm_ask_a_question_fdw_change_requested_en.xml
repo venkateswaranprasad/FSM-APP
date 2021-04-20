@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="fdw_change_requested" label="FDW change requested" language="en" table="x_568222_fsm_ask_a_question">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>fdw_change_requested</element>
+            <help/>
+            <hint/>
+            <label>FDW change requested</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <plural>FDW change requested</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 01:50:30</sys_created_on>
+            <sys_id>bca6316b2f32e0106d73d49df699b68b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>FDW change requested</sys_name>
+            <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+            <sys_update_name>sys_documentation_x_568222_fsm_ask_a_question_fdw_change_requested_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 01:50:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

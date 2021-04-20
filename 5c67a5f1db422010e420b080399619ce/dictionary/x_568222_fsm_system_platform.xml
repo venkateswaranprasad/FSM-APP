@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="System / Platform" max_length="40" name="x_568222_fsm_system_platform" sizeclass="416" type="collection">
+        <element choice="1" label="Platform" max_length="40" name="platform" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AMO" sequence="0" value="AMO"/>
+                <element inactive_on_update="false" label="Atlas" sequence="0" value="Atlas"/>
+                <element inactive_on_update="false" label="Bravo App" sequence="0" value="Bravo App"/>
+                <element inactive_on_update="false" label="BSAR" sequence="0" value="BSAR"/>
+                <element inactive_on_update="false" label="BtB" sequence="0" value="BtB"/>
+                <element inactive_on_update="false" label="BtB [Canada]" sequence="0" value="BtB [Canada]"/>
+                <element inactive_on_update="false" label="BW Atlas" sequence="0" value="BW Atlas"/>
+                <element inactive_on_update="false" label="BW BARN" sequence="0" value="BW BARN"/>
+                <element inactive_on_update="false" label="BW BART" sequence="0" value="BW BART"/>
+                <element inactive_on_update="false" label="BW BtB" sequence="0" value="BW BtB"/>
+                <element inactive_on_update="false" label="BW BtB HANA" sequence="0" value="BW BtB HANA"/>
+                <element inactive_on_update="false" label="BW BtB HANA [Canada]" sequence="0" value="BW BtB HANA [Canada]"/>
+                <element inactive_on_update="false" label="BW FiT" sequence="0" value="BW FiT"/>
+                <element inactive_on_update="false" label="BW Fusion" sequence="0" value="BW Fusion"/>
+                <element inactive_on_update="false" label="BW GDSE" sequence="0" value="BW GDSE"/>
+                <element inactive_on_update="false" label="BW HANA BtB" sequence="0" value="BW HANA BtB"/>
+                <element inactive_on_update="false" label="BW LSR" sequence="0" value="BW LSR"/>
+                <element inactive_on_update="false" label="BW Lynx" sequence="0" value="BW Lynx"/>
+                <element inactive_on_update="false" label="BW Mars" sequence="0" value="BW Mars"/>
+                <element inactive_on_update="false" label="BW Mercury" sequence="0" value="BW Mercury"/>
+                <element inactive_on_update="false" label="BW PandA" sequence="0" value="BW PandA"/>
+                <element inactive_on_update="false" label="BW Stf" sequence="0" value="BW Stf"/>
+                <element inactive_on_update="false" label="BW Surgical Vision" sequence="0" value="BW Surgical Vision"/>
+                <element inactive_on_update="false" label="CFin" sequence="0" value="CFin"/>
+                <element inactive_on_update="false" label="Commercial Planning &amp; Reporting" sequence="0" value="Commercial Planning &amp; Reporting"/>
+                <element inactive_on_update="false" label="Commercial Planning &amp; Reporting [Canada]" sequence="0" value="Commercial Planning &amp; Reporting [Canada]"/>
+                <element inactive_on_update="false" label="Commercial Planning &amp; Reporting [NA]" sequence="0" value="Commercial Planning &amp; Reporting [NA]"/>
+                <element inactive_on_update="false" label="Commercial Planning &amp; Reporting [VisionCare]" sequence="0" value="Commercial Planning &amp; Reporting [VisionCare]"/>
+                <element inactive_on_update="false" label="Corporate Bravo" sequence="0" value="Corporate Bravo"/>
+                <element inactive_on_update="false" label="CPC" sequence="0" value="CPC"/>
+                <element inactive_on_update="false" label="Enterprise Supply Chain" sequence="0" value="Enterprise Supply Chain"/>
+                <element inactive_on_update="false" label="Finance GRM Vision Surgical" sequence="0" value="Finance GRM Vision Surgical"/>
+                <element inactive_on_update="false" label="Fusion" sequence="0" value="Fusion"/>
+                <element inactive_on_update="false" label="G2N" sequence="0" value="G2N"/>
+                <element inactive_on_update="false" label="Galaxy [non-Russia]" sequence="0" value="Galaxy [non-Russia]"/>
+                <element inactive_on_update="false" label="Galaxy [Russia]" sequence="0" value="Galaxy [Russia]"/>
+                <element inactive_on_update="false" label="Global Compensation Planning" sequence="0" value="Global Compensation Planning"/>
+                <element inactive_on_update="false" label="Global Functions" sequence="0" value="Global Functions"/>
+                <element inactive_on_update="false" label="GRM Planning" sequence="0" value="GRM Planning"/>
+                <element inactive_on_update="false" label="InterCo Hub" sequence="0" value="InterCo Hub"/>
+                <element inactive_on_update="false" label="Journal Entry" sequence="0" value="Journal Entry"/>
+                <element inactive_on_update="false" label="Lynx" sequence="0" value="Lynx"/>
+                <element inactive_on_update="false" label="Mars" sequence="0" value="Mars"/>
+                <element inactive_on_update="false" label="Mercury" sequence="0" value="Mercury"/>
+                <element inactive_on_update="false" label="NaVision [Ukraine]" sequence="0" value="NaVision [Ukraine]"/>
+                <element inactive_on_update="false" label="Other" sequence="0" value="Other"/>
+                <element inactive_on_update="false" label="PandA" sequence="0" value="PandA"/>
+                <element inactive_on_update="false" label="Project One" sequence="0" value="Project One"/>
+                <element inactive_on_update="false" label="SEA" sequence="0" value="SEA"/>
+                <element inactive_on_update="false" label="StF" sequence="0" value="StF"/>
+                <element inactive_on_update="false" label="Supply Chain GRM" sequence="0" value="Supply Chain GRM"/>
+                <element inactive_on_update="false" label="Supply Chain Planning" sequence="0" value="Supply Chain Planning"/>
+                <element inactive_on_update="false" label="Sustain" sequence="0" value="Sustain"/>
+                <element inactive_on_update="false" label="Tasks" sequence="0" value="Tasks"/>
+                <element inactive_on_update="false" label="Transformer" sequence="0" value="Transformer"/>
+                <element inactive_on_update="false" label="WEB GRM" sequence="0" value="WEB GRM"/>
+                <element inactive_on_update="false" label="WEB GRM Reporting" sequence="0" value="WEB GRM Reporting"/>
+                <element inactive_on_update="false" label="WW Consolidation" sequence="0" value="WW Consolidation"/>
+                <element inactive_on_update="false" label="WW GRM" sequence="0" value="WW GRM"/>
+                <element inactive_on_update="false" label="ZBB" sequence="0" value="ZBB"/>
+            </choice>
+        </element>
+        <element choice="1" label="Region" max_length="40" name="region" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ASPAC" sequence="0" value="ASPAC"/>
+                <element inactive_on_update="false" label="EMEA" sequence="0" value="EMEA"/>
+                <element inactive_on_update="false" label="LATAM" sequence="0" value="LATAM"/>
+                <element inactive_on_update="false" label="NAM" sequence="0" value="NAM"/>
+            </choice>
+        </element>
+        <element choice="1" label="Sector" max_length="40" name="sector" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CPC" sequence="0" value="CPC"/>
+                <element inactive_on_update="false" label="MED" sequence="0" value="MED"/>
+                <element inactive_on_update="false" label="NOP" sequence="0" value="NOP"/>
+                <element inactive_on_update="false" label="PHR" sequence="0" value="PHR"/>
+            </choice>
+        </element>
+        <element choice="1" label="System" max_length="40" name="system" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Blackline" sequence="0" value="Blackline"/>
+                <element inactive_on_update="false" label="bravo_non_tm1_app" sequence="0" value="bravo_non_tm1_app"/>
+                <element inactive_on_update="false" label="BW" sequence="0" value="BW"/>
+                <element inactive_on_update="false" label="data_hub" sequence="0" value="data_hub"/>
+                <element inactive_on_update="false" label="digital_platform" sequence="0" value="digital_platform"/>
+                <element inactive_on_update="false" label="FDW" sequence="0" value="FDW"/>
+                <element inactive_on_update="false" label="gCraft" sequence="0" value="gCraft"/>
+                <element inactive_on_update="false" label="JDE" sequence="0" value="JDE"/>
+                <element inactive_on_update="false" label="SAP" sequence="0" value="SAP"/>
+                <element inactive_on_update="false" label="Strive" sequence="0" value="Strive"/>
+                <element inactive_on_update="false" label="Tableau" sequence="0" value="Tableau"/>
+                <element inactive_on_update="false" label="TM1" sequence="0" value="TM1"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_568222_fsm_ask_a_question_task</description>
+        <name>x_568222_fsm_ask_a_question_task</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 14:24:19</sys_created_on>
+        <sys_id>b22d6fc3db4e2010e420b08039961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_568222_fsm_ask_a_question_task</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>sys_security_acl_b22d6fc3db4e2010e420b08039961958</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 14:24:19</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</application>
+        <file_path/>
+        <instance_id>1c6f5076dbf037002f68c597059619c3</instance_id>
+        <instance_name>dev81591</instance_name>
+        <name>sys_security_acl_b22d6fc3db4e2010e420b08039961958</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_568222_fsm_ask_a_question_task</description><name>x_568222_fsm_ask_a_question_task</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-05 14:24:19</sys_created_on><sys_id>b22d6fc3db4e2010e420b08039961958</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_568222_fsm_ask_a_question_task</sys_name><sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package><sys_policy/><sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope><sys_update_name>sys_security_acl_b22d6fc3db4e2010e420b08039961958</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-05 14:24:19</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-583861865</payload_hash>
+        <record_name>x_568222_fsm_ask_a_question_task</record_name>
+        <reverted_from/>
+        <source>ed28adf1db422010e420b080399619c1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 14:24:19</sys_created_on>
+        <sys_id>7a2d6fc3db4e2010e420b0803996195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177729455180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 14:24:19</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>b22d6fc3f54e2010cca227a6ad94e85a</update_guid>
+        <update_guid_history>b22d6fc3f54e2010cca227a6ad94e85a:-583861865</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 14:32:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>01a08d22f8f647da809a3ba9d159d664</sys_id>
+        <sys_metadata>b22d6fc3db4e2010e420b08039961958</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_568222_fsm_ask_a_question_task</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_parent display_value="">be2d6fc3db4e2010e420b0803996195d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_scope_delete display_value="">9526c521070b416c9ed74824404c3644</sys_scope_delete>
+        <sys_update_name>sys_security_acl_b22d6fc3db4e2010e420b08039961958</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_b22d6fc3db4e2010e420b08039961958">7a2d6fc3db4e2010e420b0803996195a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 14:32:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

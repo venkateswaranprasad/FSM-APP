@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sector" table="x_568222_fsm_mrc" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sector</element>
+            <name>x_568222_fsm_mrc</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-17 11:43:43</sys_created_on>
+            <sys_id>1b7bf847db122010e420b080399619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sector</sys_name>
+            <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+            <sys_update_name>sys_choice_x_568222_fsm_mrc_sector</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-17 11:43:43</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Consumer (CPC)</label>
+            <language>en</language>
+            <name>x_568222_fsm_mrc</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-17 11:43:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>826b3087db122010e420b080399619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-17 11:43:43</sys_updated_on>
+            <value>CPC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Medical (MED)</label>
+            <language>en</language>
+            <name>x_568222_fsm_mrc</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-17 11:44:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>daab3407db122010e420b08039961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-17 11:44:28</sys_updated_on>
+            <value>MED</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Operating (NOP)</label>
+            <language>en</language>
+            <name>x_568222_fsm_mrc</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-17 11:44:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50cbb487db122010e420b080399619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-17 11:44:54</sys_updated_on>
+            <value>NOP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sector</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pharma (PHR)</label>
+            <language>en</language>
+            <name>x_568222_fsm_mrc</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-17 11:44:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>119bb487db122010e420b080399619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-17 11:44:09</sys_updated_on>
+            <value>PHR</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

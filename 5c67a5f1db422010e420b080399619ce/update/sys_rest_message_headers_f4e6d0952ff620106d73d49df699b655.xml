@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers">
+    <sys_rest_message_headers action="INSERT_OR_UPDATE">
+        <name>Content-Type</name>
+        <rest_message display_value="Manveen PDI">4976dc552ff620106d73d49df699b63b</rest_message>
+        <sys_class_name>sys_rest_message_headers</sys_class_name>
+        <sys_created_by>MSingh100</sys_created_by>
+        <sys_created_on>2021-03-08 19:06:15</sys_created_on>
+        <sys_id>f4e6d0952ff620106d73d49df699b655</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Content-Type</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>sys_rest_message_headers_f4e6d0952ff620106d73d49df699b655</sys_update_name>
+        <sys_updated_by>MSingh100</sys_updated_by>
+        <sys_updated_on>2021-03-09 14:09:18</sys_updated_on>
+        <value>application/json</value>
+    </sys_rest_message_headers>
+</record_update>

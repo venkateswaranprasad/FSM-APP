@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="System Enhancement">dadafad92f7e20106d73d49df699b617</catalog_item>
+        <catalog_variable>IO:da5c08e12f7260106d73d49df699b62a</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-09 13:05:12</sys_created_on>
+        <sys_id>32dd44e52f7260106d73d49df699b639</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>benefit_classification</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_32dd44e52f7260106d73d49df699b639</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-09 13:05:12</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide/Show Benefit Classification Field">1e9d80652f7260106d73d49df699b6d6</ui_policy>
+        <variable>benefit_classification</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Finance Service Management Case" max_length="40" name="x_568222_fsm_ask_a_question" sizeclass="78" type="collection">
+        <element label="Describe Downstream Dependencies" max_length="150" name="describe_downstream_dependencies" type="string"/>
+        <element label="Development Cost" max_length="100" name="development_cost" type="string"/>
+        <element label="ER checked with Tech Team" max_length="40" name="er_checked_with_tech_team" type="boolean"/>
+        <element label="Estimated Deployment Date" max_length="40" name="estimated_deployment_date" type="glide_date"/>
+        <element label="FDW change requested" max_length="40" name="fdw_change_requested" type="boolean"/>
+        <element choice="1" label="Funding" max_length="40" name="funding" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ERP Remediation" sequence="100" value="ERP Remediation"/>
+                <element inactive_on_update="false" label="Local" sequence="200" value="Local"/>
+                <element inactive_on_update="false" label="Project" sequence="300" value="Project"/>
+                <element inactive_on_update="false" label="IT" sequence="400" value="IT"/>
+                <element inactive_on_update="false" label="Built by Run team" sequence="500" value="Built by Run team"/>
+            </choice>
+        </element>
+        <element choice="1" label="Justification" max_length="150" name="justification" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Foundational Data Requirement" value="Foundational Data Requirement"/>
+                <element inactive_on_update="false" label="High Value / Critical Need / Core Functionality" value="High Value / Critical Need / Core Functionality"/>
+                <element inactive_on_update="false" label="Instance has Low/Med Data Quality and Low/Med Value" value="Instance has Low/Med Data Quality and Low/Med Value"/>
+                <element inactive_on_update="false" label="Leadership Decision" value="Leadership Decision"/>
+                <element inactive_on_update="false" label="Lower Priority" value="Lower Priority"/>
+                <element inactive_on_update="false" label="Pharm - No further investment due to EPM Timeline" value="Pharm - No further investment due to EPM Timeline"/>
+                <element inactive_on_update="false" label="Unrelated to core functionality" value="Unrelated to core functionality"/>
+                <element inactive_on_update="false" label="Very High Effort / Tech build - Do not pursue" value="Very High Effort / Tech build - Do not pursue"/>
+            </choice>
+        </element>
+        <element label="Item" max_length="32" name="record_producer" reference="sc_cat_item_producer" type="reference"/>
+        <element label="Requires Governance Council Approval" max_length="30" name="requires_gc_approval" type="boolean"/>
+    </element>
+</database>

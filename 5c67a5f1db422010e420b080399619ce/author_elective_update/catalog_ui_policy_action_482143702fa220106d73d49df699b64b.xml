@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Report gCRAFT Issue">9d4bb51b2f1620106d73d49df699b65e</catalog_item>
+        <catalog_variable>IO:5bc592eb2fde20106d73d49df699b632</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 07:57:04</sys_created_on>
+        <sys_id>482143702fa220106d73d49df699b64b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dfit_platform</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_482143702fa220106d73d49df699b64b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 07:57:04</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide System/Platform/Blackline Field For gCRAFT Record Producer">9f06cba02f6220106d73d49df699b63b</ui_policy>
+        <variable>dfit_platform</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</application>
+        <file_path/>
+        <instance_id>1c6f5076dbf037002f68c597059619c3</instance_id>
+        <instance_name>dev81591</instance_name>
+        <name>catalog_ui_policy_action_482143702fa220106d73d49df699b64b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Report gCRAFT Issue">9d4bb51b2f1620106d73d49df699b65e</catalog_item><catalog_variable>IO:5bc592eb2fde20106d73d49df699b632</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-23 07:57:04</sys_created_on><sys_id>482143702fa220106d73d49df699b64b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>dfit_platform</sys_name><sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package><sys_policy/><sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope><sys_update_name>catalog_ui_policy_action_482143702fa220106d73d49df699b64b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-23 07:57:04</sys_updated_on><table/><ui_policy display_value="Hide System/Platform/Blackline Field For gCRAFT Record Producer">9f06cba02f6220106d73d49df699b63b</ui_policy><variable>dfit_platform</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1857260019</payload_hash>
+        <record_name>dfit_platform</record_name>
+        <reverted_from/>
+        <source>ed28adf1db422010e420b080399619c1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-23 07:57:04</sys_created_on>
+        <sys_id>ad2143702fa220106d73d49df699b685</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177cde441ba0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-23 07:57:04</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>e521437083a22010d63c923f6ff9bf85</update_guid>
+        <update_guid_history>e521437083a22010d63c923f6ff9bf85:-1857260019</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="dfit_platform">86d154952fee20106d73d49df699b64d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-24 08:28:06</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>1e63c877effd423485058e56e7fe9d90</sys_id>
+        <sys_metadata>482143702fa220106d73d49df699b64b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dfit_platform</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_scope_delete display_value="">9526c521070b416c9ed74824404c3644</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_482143702fa220106d73d49df699b64b</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_482143702fa220106d73d49df699b64b">ad2143702fa220106d73d49df699b685</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-24 08:28:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

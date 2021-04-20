@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>com_glideapp_questionset_default_question_editor</formatter>
+        <name>Case Variable Formatter</name>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-09 14:29:50</sys_created_on>
+        <sys_id>68a49c20db162010e420b08039961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Case Variable Formatter</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>sys_ui_formatter_68a49c20db162010e420b08039961901</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-09 14:29:50</sys_updated_on>
+        <table>x_568222_fsm_ask_a_question</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>

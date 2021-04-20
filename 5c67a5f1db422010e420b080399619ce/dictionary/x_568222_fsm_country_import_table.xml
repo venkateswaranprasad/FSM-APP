@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Country Import Table" max_length="40" name="x_568222_fsm_country_import_table" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Active" label="Active" max_length="40" name="u_active" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=IANA Suffix" label="IANA Suffix" max_length="40" name="u_iana_suffix" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ISO Long" label="ISO Long" max_length="40" name="u_iso_long" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ISO Short" label="ISO Short " max_length="40" name="u_iso_short" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Order" label="Order" max_length="40" name="u_order" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Population (mil)" label="Population (mil)" max_length="40" name="u_population__mil_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Region" label="Region" max_length="40" name="u_region" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=UN Numeric" label="UN Numeric" max_length="40" name="u_un_numeric" type="string"/>
+    </element>
+</database>

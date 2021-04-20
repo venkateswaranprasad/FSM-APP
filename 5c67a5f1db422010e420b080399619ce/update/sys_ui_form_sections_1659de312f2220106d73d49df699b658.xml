@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1659de312f2220106d73d49df699b658" sys_domain="global" table="x_568222_fsm_ask_a_question" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-26 07:37:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9659dab12f2220106d73d49df699b656</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_568222_fsm_ask_a_question" name="x_568222_fsm_ask_a_question" sys_domain="global" view="Default view">1659de312f2220106d73d49df699b658</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_568222_fsm_ask_a_question" sys_domain="global" view="Default view">251a81a2dbce6010e420b0803996190d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-26 07:37:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-26 07:49:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b1c5eb12f2220106d73d49df699b6fc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_568222_fsm_ask_a_question" name="x_568222_fsm_ask_a_question" sys_domain="global" view="Default view">1659de312f2220106d73d49df699b658</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_568222_fsm_ask_a_question" sys_domain="global" view="Default view">ab1c5eb12f2220106d73d49df699b6fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-26 07:51:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 02:06:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>372afdeb2f32e0106d73d49df699b645</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_568222_fsm_ask_a_question" name="x_568222_fsm_ask_a_question" sys_domain="global" view="Default view">1659de312f2220106d73d49df699b658</sys_ui_form>
+            <sys_ui_section caption="Agent Field" display_value="Agent Field" name="x_568222_fsm_ask_a_question" sys_domain="global" view="Default view">7b2afdeb2f32e0106d73d49df699b641</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 02:07:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-26 07:51:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78bc92352f2220106d73d49df699b6bc</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_568222_fsm_ask_a_question" name="x_568222_fsm_ask_a_question" sys_domain="global" view="Default view">1659de312f2220106d73d49df699b658</sys_ui_form>
+            <sys_ui_section caption="*User Input" display_value="*User Input" name="x_568222_fsm_ask_a_question" sys_domain="global" view="Default view">38bc92352f2220106d73d49df699b6ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 02:07:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-26 07:37:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da59dab12f2220106d73d49df699b658</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_568222_fsm_ask_a_question" name="x_568222_fsm_ask_a_question" sys_domain="global" view="Default view">1659de312f2220106d73d49df699b658</sys_ui_form>
+            <sys_ui_section caption="Related Fields" display_value="Related Fields" name="x_568222_fsm_ask_a_question" sys_domain="global" view="Default view">de59dab12f2220106d73d49df699b656</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 02:07:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_568222_fsm_ask_a_question</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-26 07:37:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1659de312f2220106d73d49df699b658</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_568222_fsm_ask_a_question</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1659de312f2220106d73d49df699b658</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-26 07:37:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

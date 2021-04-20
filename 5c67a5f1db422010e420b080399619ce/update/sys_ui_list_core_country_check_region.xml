@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="core_country" version="2" view="check_region">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="core_country" element="NULL" name="core_country" parent="NULL" relationship="NULL" sys_domain="global" view="e8923bec2fa220106d73d49df699b63e">22923bec2fa220106d73d49df699b6ca</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:54:38</sys_created_on>
+            <sys_id>ea923bec2fa220106d73d49df699b6ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:54:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_region</element>
+            <list_id display_value="core_country" element="NULL" name="core_country" parent="NULL" relationship="NULL" sys_domain="global" view="e8923bec2fa220106d73d49df699b63e">22923bec2fa220106d73d49df699b6ca</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:54:38</sys_created_on>
+            <sys_id>6e923bec2fa220106d73d49df699b6ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:54:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>population</element>
+            <list_id display_value="core_country" element="NULL" name="core_country" parent="NULL" relationship="NULL" sys_domain="global" view="e8923bec2fa220106d73d49df699b63e">22923bec2fa220106d73d49df699b6ca</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:54:38</sys_created_on>
+            <sys_id>ee923bec2fa220106d73d49df699b6ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:54:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>iana</element>
+            <list_id display_value="core_country" element="NULL" name="core_country" parent="NULL" relationship="NULL" sys_domain="global" view="e8923bec2fa220106d73d49df699b63e">22923bec2fa220106d73d49df699b6ca</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:54:38</sys_created_on>
+            <sys_id>62923bec2fa220106d73d49df699b6cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:54:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>iso3166_2</element>
+            <list_id display_value="core_country" element="NULL" name="core_country" parent="NULL" relationship="NULL" sys_domain="global" view="e8923bec2fa220106d73d49df699b63e">22923bec2fa220106d73d49df699b6ca</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:54:38</sys_created_on>
+            <sys_id>e2923bec2fa220106d73d49df699b6cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:54:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>iso3166_3</element>
+            <list_id display_value="core_country" element="NULL" name="core_country" parent="NULL" relationship="NULL" sys_domain="global" view="e8923bec2fa220106d73d49df699b63e">22923bec2fa220106d73d49df699b6ca</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:54:38</sys_created_on>
+            <sys_id>66923bec2fa220106d73d49df699b6cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:54:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>un_numeric</element>
+            <list_id display_value="core_country" element="NULL" name="core_country" parent="NULL" relationship="NULL" sys_domain="global" view="e8923bec2fa220106d73d49df699b63e">22923bec2fa220106d73d49df699b6ca</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:54:38</sys_created_on>
+            <sys_id>e6923bec2fa220106d73d49df699b6cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:54:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="core_country" element="NULL" name="core_country" parent="NULL" relationship="NULL" sys_domain="global" view="e8923bec2fa220106d73d49df699b63e">22923bec2fa220106d73d49df699b6ca</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:54:38</sys_created_on>
+            <sys_id>6a923bec2fa220106d73d49df699b6cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:54:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>order</element>
+            <list_id display_value="core_country" element="NULL" name="core_country" parent="NULL" relationship="NULL" sys_domain="global" view="e8923bec2fa220106d73d49df699b63e">22923bec2fa220106d73d49df699b6ca</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:54:38</sys_created_on>
+            <sys_id>ea923bec2fa220106d73d49df699b6cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:54:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>core_country</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:54:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>22923bec2fa220106d73d49df699b6ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>core_country</sys_name>
+            <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+            <sys_update_name>sys_ui_list_core_country_check_region</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:54:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Check Region" name="check_region">e8923bec2fa220106d73d49df699b63e</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

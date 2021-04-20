@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_568222_fsm.FSMUtils</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>FSMUtils</name>
+        <script><![CDATA[var FSMUtils = Class.create();
+FSMUtils.prototype = {
+    initialize: function() {
+		this.gl = new global.GSLog('x_568222_fsm.gslog.fsmutils.log', "FSMUtils");
+    },
+isDataAvailable: function(table, query, _isNotNullQuery, _notNullQueryField) {
+		// check if any data returns for this query
+		// used in instances such as if a field should show on a record producer
+		// used in determining if the current date falls in a close period
+		
+		//this.gl.logDebug("isDataAvailable: \ntable: " + table + "\nquery: " + query + "\n_isNotNullQuery: " + _isNotNullQuery + "_notNullQueryField: " + _notNullQueryField);
+		
+		var grDataAvailable = new GlideAggregate(table);
+		grDataAvailable.addAggregate('COUNT');
+		grDataAvailable.addEncodedQuery(query);
+		if (_isNotNullQuery && _notNullQueryField) {
+			grDataAvailable.addNotNullQuery(_notNullQueryField);
+		}
+		
+		grDataAvailable.query();		
+		if (grDataAvailable.next() && grDataAvailable.getAggregate('COUNT') > 0)   {
+			this.gl.logDebug("isDataAvailable: \ntable: " + table + "\nquery: " + query + "\n_isNotNullQuery: " + _isNotNullQuery + "_notNullQueryField: " + _notNullQueryField + "\nreturn: true\ngrDataAvailable.getEncodedQuery: " + grDataAvailable.getEncodedQuery());
+			return true;
+		} else {
+			this.gl.logDebug("isDataAvailable: \ntable: " + table + "\nquery: " + query + "\n_isNotNullQuery: " + _isNotNullQuery + "_notNullQueryField: " + _notNullQueryField + "\nreturn: false\ngrDataAvailable.getEncodedQuery: " + grDataAvailable.getEncodedQuery());
+			return false;
+		}
+	},
+    type: 'FSMUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 10:31:37</sys_created_on>
+        <sys_id>efcf12892fb220106d73d49df699b62b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FSMUtils</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>sys_script_include_efcf12892fb220106d73d49df699b62b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-08 10:34:10</sys_updated_on>
+    </sys_script_include>
+</record_update>

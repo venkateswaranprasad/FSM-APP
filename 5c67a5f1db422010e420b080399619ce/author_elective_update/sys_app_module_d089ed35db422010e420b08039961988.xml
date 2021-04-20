@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>false</active>
+        <application display_value="Finance Serivce Management">e528adf1db422010e420b080399619b6</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Alls</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_568222_fsm_all</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_568222_fsm.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-01 07:36:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d089ed35db422010e420b08039961988</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>sys_app_module_d089ed35db422010e420b08039961988</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-01 10:12:14</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</application>
+        <file_path/>
+        <instance_id>1c6f5076dbf037002f68c597059619c3</instance_id>
+        <instance_name>dev81591</instance_name>
+        <name>sys_app_module_d089ed35db422010e420b08039961988</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>false</active><application display_value="Finance Serivce Management">e528adf1db422010e420b080399619b6</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Alls</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_568222_fsm_all</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_568222_fsm.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-01 07:36:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d089ed35db422010e420b08039961988</sys_id><sys_mod_count>4</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package><sys_policy/><sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope><sys_update_name>sys_app_module_d089ed35db422010e420b08039961988</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-01 10:12:14</sys_updated_on><timeline_page/><title>All</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1554544420</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>ed28adf1db422010e420b080399619c1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-01 10:12:14</sys_created_on>
+        <sys_id>8f1dcebddb822010e420b0803996191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1775d1419f20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-01 10:12:14</sys_updated_on>
+        <type>Module</type>
+        <update_guid>0b1dcebd39822010f065956654925a1e</update_guid>
+        <update_guid_history>0b1dcebd39822010f065956654925a1e:1554544420,d01aed35a9422010f23c337bfd6f69fc:-60419805,faf921752b422010393ca23f47c0b214:1554544420,ced9e1758e422010a6bf350550ca7c52:1674691754,dc89ed35654220109b436b0a73882489:177265385</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All">dd3205eadb8e6010e420b080399619c9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-03 12:40:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>18101866a1b6474087188f54824cfe99</sys_id>
+        <sys_metadata>d089ed35db422010e420b08039961988</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_scope_delete display_value="">9526c521070b416c9ed74824404c3644</sys_scope_delete>
+        <sys_update_name>sys_app_module_d089ed35db422010e420b08039961988</sys_update_name>
+        <sys_update_version display_value="sys_app_module_d089ed35db422010e420b08039961988">8f1dcebddb822010e420b0803996191e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-03 12:40:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="system" table="x_568222_fsm_system_platform" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>system</element>
+            <name>x_568222_fsm_system_platform</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:56</sys_created_on>
+            <sys_id>a7109ed72f5620106d73d49df699b6b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>system</sys_name>
+            <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+            <sys_update_name>sys_choice_x_568222_fsm_system_platform_system</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:56</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Blackline</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f109ed72f5620106d73d49df699b6b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:56</sys_updated_on>
+            <value>Blackline</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>bravo_non_tm1_app</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b109ed72f5620106d73d49df699b6e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:57</sys_updated_on>
+            <value>bravo_non_tm1_app</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BW</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf109ed72f5620106d73d49df699b6ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:57</sys_updated_on>
+            <value>BW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>data_hub</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c020ded72f5620106d73d49df699b639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:59</sys_updated_on>
+            <value>data_hub</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>digital_platform</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5420ded72f5620106d73d49df699b64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:59</sys_updated_on>
+            <value>digital_platform</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FDW</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:31:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9420ded72f5620106d73d49df699b651</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:31:59</sys_updated_on>
+            <value>FDW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>gCraft</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d420ded72f5620106d73d49df699b657</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:00</sys_updated_on>
+            <value>gCraft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JDE</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5420ded72f5620106d73d49df699b65d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:00</sys_updated_on>
+            <value>JDE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SAP</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c20ded72f5620106d73d49df699b660</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:00</sys_updated_on>
+            <value>SAP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Strive</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0520ded72f5620106d73d49df699b6cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:03</sys_updated_on>
+            <value>Strive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tableau</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d20ded72f5620106d73d49df699b6d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:03</sys_updated_on>
+            <value>Tableau</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TM1</label>
+            <language>en</language>
+            <name>x_568222_fsm_system_platform</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-18 12:32:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c920ded72f5620106d73d49df699b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-18 12:32:03</sys_updated_on>
+            <value>TM1</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

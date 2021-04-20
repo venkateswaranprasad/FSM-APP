@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_iso_long" label="ISO Long" language="en" table="x_568222_fsm_country_import_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_iso_long</element>
+            <help/>
+            <hint/>
+            <label>ISO Long</label>
+            <language>en</language>
+            <name>x_568222_fsm_country_import_table</name>
+            <plural>ISO Longs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-19 07:12:35</sys_created_on>
+            <sys_id>c79096e72fde20106d73d49df699b681</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ISO Long</sys_name>
+            <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+            <sys_update_name>sys_documentation_x_568222_fsm_country_import_table_u_iso_long_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-19 07:12:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

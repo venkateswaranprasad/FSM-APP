@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="er_checked_with_tech_team" label="ER checked with Tech Team" language="en" table="x_568222_fsm_ask_a_question">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>er_checked_with_tech_team</element>
+            <help/>
+            <hint/>
+            <label>ER checked with Tech Team</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <plural>ER checked with Tech Teams</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 01:49:48</sys_created_on>
+            <sys_id>ae76792b2f32e0106d73d49df699b60d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ER checked with Tech Team</sys_name>
+            <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+            <sys_update_name>sys_documentation_x_568222_fsm_ask_a_question_er_checked_with_tech_team_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 01:49:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

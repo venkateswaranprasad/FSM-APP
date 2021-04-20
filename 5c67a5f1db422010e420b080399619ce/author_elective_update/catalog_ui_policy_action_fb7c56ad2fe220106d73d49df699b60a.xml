@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Report gCRAFT Issue">9d4bb51b2f1620106d73d49df699b65e</catalog_item>
+        <catalog_variable>IO:db2293e32f9260106d73d49df699b6e3</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 13:12:46</sys_created_on>
+        <sys_id>fb7c56ad2fe220106d73d49df699b60a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>mrc</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_fb7c56ad2fe220106d73d49df699b60a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 13:18:21</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show MRC Field Based If Region and Sector Is Not None">6deb9e6d2fe220106d73d49df699b66c</ui_policy>
+        <variable>mrc</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</application>
+        <file_path/>
+        <instance_id>1c6f5076dbf037002f68c597059619c3</instance_id>
+        <instance_name>dev81591</instance_name>
+        <name>catalog_ui_policy_action_fb7c56ad2fe220106d73d49df699b60a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Report gCRAFT Issue">9d4bb51b2f1620106d73d49df699b65e</catalog_item><catalog_variable>IO:db2293e32f9260106d73d49df699b6e3</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-25 13:12:46</sys_created_on><sys_id>fb7c56ad2fe220106d73d49df699b60a</sys_id><sys_mod_count>2</sys_mod_count><sys_name>mrc</sys_name><sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package><sys_policy/><sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope><sys_update_name>catalog_ui_policy_action_fb7c56ad2fe220106d73d49df699b60a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-25 13:18:21</sys_updated_on><table/><ui_policy display_value="Show MRC Field Based If Region and Sector Is Not None">6deb9e6d2fe220106d73d49df699b66c</ui_policy><variable>mrc</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1990194160</payload_hash>
+        <record_name>mrc</record_name>
+        <reverted_from/>
+        <source>ed28adf1db422010e420b080399619c1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 13:18:21</sys_created_on>
+        <sys_id>e3dd56ed2fe220106d73d49df699b66d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177d9571fbf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 13:18:21</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>6fdd56ed21e2201035e348dd16bb046c</update_guid>
+        <update_guid_history>6fdd56ed21e2201035e348dd16bb046c:1990194160,fa2d5aad57e2201001ea264aa0a8beae:1814964140,e59c96ad6be22010160b8d58016ae105:1990194160</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="mrc">54ae9eed2fe220106d73d49df699b61e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 13:21:41</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>08cc5a43db4444a495695388cae30c31</sys_id>
+        <sys_metadata>fb7c56ad2fe220106d73d49df699b60a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mrc</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_scope_delete display_value="">9526c521070b416c9ed74824404c3644</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_fb7c56ad2fe220106d73d49df699b60a</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_fb7c56ad2fe220106d73d49df699b60a">e3dd56ed2fe220106d73d49df699b66d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 13:21:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

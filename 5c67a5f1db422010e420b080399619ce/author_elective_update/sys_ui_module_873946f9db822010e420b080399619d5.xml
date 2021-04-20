@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Finance Serivce Management">1089ed35db422010e420b0803996198b</application>
+        <filter/>
+        <name>Ask a Queries</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_568222_fsm.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-01 09:55:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>873946f9db822010e420b080399619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ask a Queries</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>sys_ui_module_873946f9db822010e420b080399619d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-01 09:55:18</sys_updated_on>
+        <table>x_568222_fsm_ask_a_query</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</application>
+        <file_path/>
+        <instance_id>1c6f5076dbf037002f68c597059619c3</instance_id>
+        <instance_name>dev81591</instance_name>
+        <name>sys_ui_module_873946f9db822010e420b080399619d5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Finance Serivce Management">1089ed35db422010e420b0803996198b</application><filter/><name>Ask a Queries</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_568222_fsm.user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-01 09:55:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>873946f9db822010e420b080399619d5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ask a Queries</sys_name><sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package><sys_policy/><sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope><sys_update_name>sys_ui_module_873946f9db822010e420b080399619d5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-01 09:55:18</sys_updated_on><table>x_568222_fsm_ask_a_query</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>579535474</payload_hash>
+        <record_name>Ask a Queries</record_name>
+        <reverted_from/>
+        <source>ed28adf1db422010e420b080399619c1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-01 09:55:18</sys_created_on>
+        <sys_id>833946f9db822010e420b080399619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1775d049a4e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-01 09:55:18</sys_updated_on>
+        <type>Module</type>
+        <update_guid>cb3946f968822010438b5cf9461b51d6</update_guid>
+        <update_guid_history>cb3946f968822010438b5cf9461b51d6:579535474</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-03 12:41:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>43a802e487bd4841b6fd937a9c07c2f1</sys_id>
+        <sys_metadata>873946f9db822010e420b080399619d5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ask a Queries</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_scope_delete display_value="">9526c521070b416c9ed74824404c3644</sys_scope_delete>
+        <sys_update_name>sys_ui_module_873946f9db822010e420b080399619d5</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_873946f9db822010e420b080399619d5">833946f9db822010e420b080399619d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-03 12:41:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

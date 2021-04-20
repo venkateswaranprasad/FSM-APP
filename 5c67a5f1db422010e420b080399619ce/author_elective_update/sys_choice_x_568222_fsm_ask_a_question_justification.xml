@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="justification" table="x_568222_fsm_ask_a_question" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>justification</element>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 01:47:37</sys_created_on>
+            <sys_id>66f5392b2f32e0106d73d49df699b670</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>justification</sys_name>
+            <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+            <sys_update_name>sys_choice_x_568222_fsm_ask_a_question_justification</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 01:47:37</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Foundational Data Requirement</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 01:48:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c636b52b2f32e0106d73d49df699b692</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 01:48:41</sys_updated_on>
+            <value>Foundational Data Requirement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>High Value / Critical Need / Core Functionality</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 01:48:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b26392b2f32e0106d73d49df699b6cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 01:48:29</sys_updated_on>
+            <value>High Value / Critical Need / Core Functionality</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Instance has Low/Med Data Quality and Low/Med Value</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 01:47:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d406392b2f32e0106d73d49df699b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 01:47:44</sys_updated_on>
+            <value>Instance has Low/Med Data Quality and Low/Med Value</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Leadership Decision</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 01:48:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b846b9e72f32e0106d73d49df699b6f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 01:48:52</sys_updated_on>
+            <value>Leadership Decision</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lower Priority</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 01:48:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf16f9a72f32e0106d73d49df699b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 01:48:15</sys_updated_on>
+            <value>Lower Priority</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pharm - No further investment due to EPM Timeline</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 01:47:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82e5f52b2f32e0106d73d49df699b691</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 01:47:37</sys_updated_on>
+            <value>Pharm - No further investment due to EPM Timeline</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unrelated to core functionality</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 01:47:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3206392b2f32e0106d73d49df699b6cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 01:47:55</sys_updated_on>
+            <value>Unrelated to core functionality</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>justification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Very High Effort / Tech build - Do not pursue</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 01:48:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d16392b2f32e0106d73d49df699b675</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 01:48:06</sys_updated_on>
+            <value>Very High Effort / Tech build - Do not pursue</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

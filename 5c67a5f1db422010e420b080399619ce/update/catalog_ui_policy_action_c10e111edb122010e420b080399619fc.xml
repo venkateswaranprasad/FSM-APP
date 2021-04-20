@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Ask A Question">bb4641aedb8e6010e420b08039961931</catalog_item>
+        <catalog_variable>IO:b16c9d9adb122010e420b080399619ae</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-15 06:19:19</sys_created_on>
+        <sys_id>c10e111edb122010e420b080399619fc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>catalog_item</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c10e111edb122010e420b080399619fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-15 06:21:04</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide Record Producer Field">14ed51dadb122010e420b080399619d5</ui_policy>
+        <variable>catalog_item</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

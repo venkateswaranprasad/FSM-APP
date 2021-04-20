@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_rp_config">
+    <cxs_rp_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_expand_collapse>true</allow_expand_collapse>
+        <cxs_context_config display_value="Knowledge Search">69a05b3853001300a9a2664906dc343f</cxs_context_config>
+        <limit>10</limit>
+        <name>Ask a Question</name>
+        <results_header_text>Related Knowledge</results_header_text>
+        <results_per_page>10</results_per_page>
+        <sc_cat_item display_value="Ask A Question">bb4641aedb8e6010e420b08039961931</sc_cat_item>
+        <search_variable display_value="Question">57d38398db122010e420b0803996193d</search_variable>
+        <sys_class_name>cxs_rp_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-01 08:02:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>994fe939db422010e420b0803996198c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Ask a Question</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>cxs_rp_config_994fe939db422010e420b0803996198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-09 08:42:18</sys_updated_on>
+    </cxs_rp_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=994fe939db422010e420b0803996198c"/>
+</record_update>

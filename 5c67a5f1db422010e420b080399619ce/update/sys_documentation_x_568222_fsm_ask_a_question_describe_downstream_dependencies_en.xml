@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="describe_downstream_dependencies" label="Describe Downstream Dependencies" language="en" table="x_568222_fsm_ask_a_question">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>describe_downstream_dependencies</element>
+            <help/>
+            <hint/>
+            <label>Describe Downstream Dependencies</label>
+            <language>en</language>
+            <name>x_568222_fsm_ask_a_question</name>
+            <plural>Describe Downstream Dependencies</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-16 01:51:02</sys_created_on>
+            <sys_id>e8c6b16b2f32e0106d73d49df699b6ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Describe Downstream Dependencies</sys_name>
+            <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+            <sys_update_name>sys_documentation_x_568222_fsm_ask_a_question_describe_downstream_dependencies_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-16 01:51:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

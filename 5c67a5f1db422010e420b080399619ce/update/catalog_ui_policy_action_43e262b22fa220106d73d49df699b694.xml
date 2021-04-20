@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="System Performance Issue">2db4da722f6220106d73d49df699b637</catalog_item>
+        <catalog_variable>IO:8fae56232f1260106d73d49df699b6d2</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-01 10:53:07</sys_created_on>
+        <sys_id>43e262b22fa220106d73d49df699b694</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mrcs</sys_name>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_43e262b22fa220106d73d49df699b694</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-01 10:53:07</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide/Display MRC Field Based on Applies To All MRCs Value">72b22e722fa220106d73d49df699b691</ui_policy>
+        <variable>mrcs</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="System Enhancement">dadafad92f7e20106d73d49df699b617</cat_item>
+        <cat_variable>IO:8b389fe72f9260106d73d49df699b696</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Control Benefit Classification Values</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+    if (isLoading || newValue == '') {
+      return;	  
+   }	
+   //Type appropriate comment here, and begin script below
+    var system = g_form.getValue('vs_system');	
+	if( system == "TM1" || system == "Anaplan"){
+		g_form.clearOptions('benefit_classification');
+		g_form.addOption('benefit_classification','Enhanced Planning Process','Enhanced Planning Process');
+		g_form.addOption('benefit_classification','Embed Master Data Validation rules into ERP','Embed Master Data Validation rules into ERP');
+		g_form.addOption('benefit_classification','Cleanse Finance Master Data to align with existing global standards','Cleanse Finance Master Data to align with existing global standards');
+		g_form.addOption('benefit_classification','Optimize Job Scheduling','Optimize Job Scheduling');
+	}
+	else{		
+		g_form.clearOptions('benefit_classification');
+		g_form.addOption('benefit_classification','WWP or Compliance requirement','WWP or Compliance requirement');
+		g_form.addOption('benefit_classification','Statutory requirement','Statutory requirement');
+		g_form.addOption('benefit_classification','New process requirement','New process requirement');
+		g_form.addOption('benefit_classification','Elimination of Manual Adjustment to BRAVO file','Elimination of Manual Adjustment to BRAVO file');
+		g_form.addOption('benefit_classification','Automated Accuracy & Standardization','Automated Accuracy & Standardization');
+		g_form.addOption('benefit_classification','Remove manual steps in process','Remove manual steps in process');
+		g_form.addOption('benefit_classification','Improved Data Integrity','Improved Data Integrity');
+		g_form.addOption('benefit_classification','Improved Data Latency','Improved Data Latency');				
+	}
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-09 13:19:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>994fc4292f7260106d73d49df699b63f</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Control Benefit Classification Values</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>catalog_script_client_994fc4292f7260106d73d49df699b63f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 11:59:31</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+</record_update>

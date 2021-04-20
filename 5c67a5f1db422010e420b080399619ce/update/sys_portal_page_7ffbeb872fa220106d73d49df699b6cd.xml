@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-04-20 16:59:12">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-02 10:50:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7ffbeb872fa220106d73d49df699b6cd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Service Portal Overv - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>sys_portal_page_7ffbeb872fa220106d73d49df699b6cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+        <title>PA Service Portal Overv - New Tab</title>
+        <user/>
+        <view>pa_service_portal_overv_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>2</offset>
+                <page display_value="PA Service Portal Overv - New Tab">7ffbeb872fa220106d73d49df699b6cd</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                <sys_id>33fb67c72fa220106d73d49df699b615</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">33fb67c72fa220106d73d49df699b615</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>3ffb67c72fa220106d73d49df699b615</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                        <value>Service Portal Catalog Orders</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">33fb67c72fa220106d73d49df699b615</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>7bfb67c72fa220106d73d49df699b615</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                        <value>49c9dd03d7130200a9ad1e173e24d460</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">33fb67c72fa220106d73d49df699b615</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>b7fb67c72fa220106d73d49df699b615</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">33fb67c72fa220106d73d49df699b615</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>f3fb67c72fa220106d73d49df699b615</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:51:08</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">33fb67c72fa220106d73d49df699b615</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>fffb67c72fa220106d73d49df699b615</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:51:08</sys_updated_on>
+                        <value>ce70b543d7130200a9ad1e173e24d451</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Service Portal Overv - New Tab">7ffbeb872fa220106d73d49df699b6cd</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                <sys_id>3ffb67c72fa220106d73d49df699b612</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">3ffb67c72fa220106d73d49df699b612</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>37fb67c72fa220106d73d49df699b613</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                        <value>Service Portal Search Terms</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">3ffb67c72fa220106d73d49df699b612</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>bbfb67c72fa220106d73d49df699b613</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">3ffb67c72fa220106d73d49df699b612</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>f7fb67c72fa220106d73d49df699b613</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:39</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">3ffb67c72fa220106d73d49df699b612</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>fffb67c72fa220106d73d49df699b612</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:40</sys_updated_on>
+                        <value>63d36c03d7130200a9ad1e173e24d4bb</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="PA Service Portal Overv - New Tab">7ffbeb872fa220106d73d49df699b6cd</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                <sys_id>77fb67c72fa220106d73d49df699b616</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">77fb67c72fa220106d73d49df699b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>3bfb67c72fa220106d73d49df699b616</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">77fb67c72fa220106d73d49df699b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>73fb67c72fa220106d73d49df699b617</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:43</sys_updated_on>
+                        <value>301a2403d7130200a9ad1e173e24d4d1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">77fb67c72fa220106d73d49df699b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>bffb67c72fa220106d73d49df699b616</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                        <value>Service Portal KB Article Views</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">77fb67c72fa220106d73d49df699b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>fbfb67c72fa220106d73d49df699b616</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:43</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Service Portal Overv - New Tab">7ffbeb872fa220106d73d49df699b6cd</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                <sys_id>bffb67c72fa220106d73d49df699b613</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">bffb67c72fa220106d73d49df699b613</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>37fb67c72fa220106d73d49df699b614</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:39</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">bffb67c72fa220106d73d49df699b613</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>73fb67c72fa220106d73d49df699b614</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">bffb67c72fa220106d73d49df699b613</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>bbfb67c72fa220106d73d49df699b614</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:40</sys_updated_on>
+                        <value>fba36c03d7130200a9ad1e173e24d4f0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">bffb67c72fa220106d73d49df699b613</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>f7fb67c72fa220106d73d49df699b614</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                        <value>Service Portal Page Popularity</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="PA Service Portal Overv - New Tab">7ffbeb872fa220106d73d49df699b6cd</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                <sys_id>f7fb67c72fa220106d73d49df699b617</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">f7fb67c72fa220106d73d49df699b617</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>77fb67c72fa220106d73d49df699b618</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:40</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">f7fb67c72fa220106d73d49df699b617</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>7ffb67c72fa220106d73d49df699b617</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:40</sys_updated_on>
+                        <value>6125e043d7130200a9ad1e173e24d420</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">f7fb67c72fa220106d73d49df699b617</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>b3fb67c72fa220106d73d49df699b618</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-03-02 02:50:36">f7fb67c72fa220106d73d49df699b617</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-03-02 10:50:36</sys_created_on>
+                        <sys_id>bbfb67c72fa220106d73d49df699b617</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-03-02 10:50:36</sys_updated_on>
+                        <value>Service Portal Catalog Views</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

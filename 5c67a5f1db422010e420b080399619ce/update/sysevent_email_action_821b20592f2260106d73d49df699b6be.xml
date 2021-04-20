@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Finance Service Management" name="Finance Service Management">ae9d02137f232200ee2e108c3ffa9137</category>
+        <collection>x_568222_fsm_ask_a_question</collection>
+        <condition table="x_568222_fsm_ask_a_question">record_producer=9d4bb51b2f1620106d73d49df699b65e^ORrecord_producer=2db4da722f6220106d73d49df699b637^ORrecord_producer=bb4641aedb8e6010e420b08039961931^EQ<item display_table="sc_cat_item_producer" display_value="Report gCRAFT Issue" endquery="false" field="record_producer" goto="false" newquery="false" operator="=" or="false" value="9d4bb51b2f1620106d73d49df699b65e"/>
+            <item display_table="sc_cat_item_producer" display_value="System Performance Issue" endquery="false" field="record_producer" goto="false" newquery="false" operator="=" or="true" value="2db4da722f6220106d73d49df699b637"/>
+            <item display_table="sc_cat_item_producer" display_value="Ask A Question" endquery="false" field="record_producer" goto="false" newquery="false" operator="=" or="true" value="bb4641aedb8e6010e420b08039961931"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p><br /></p>
+<hr />
+<p><br /></p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <event_name>alm_transfer_order_line_subtask.escalati</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p><img style="align: baseline;" title="" src="Email%20Logo.pngx" alt="" width="315" height="58" align="baseline" border="" hspace="" vspace="" /></p>
+<p><br /></p>
+<p><img style="align: baseline;" title="" src="Email%20Body%20Header.pngx" alt="" width="1503" height="94" align="baseline" border="" hspace="" vspace="" /></p>
+<p>Hello,</p>
+<p>Case ${URI_REF} has been created.</p>
+<p>Requested For: ${current.variables.requested_for}</p>
+<p>Opened By: ${opened_by}</p>
+<p>Date Created: ${opened_at}</p>
+<p>Short Description: ${short_description}<br /></p>
+<p><br /></p>
+<p>If you have any questions, please respond to this email or leave a comment from the portal.</p>
+<p><br /></p>
+<p>Thank you,</p>
+<p>J&amp;J Finance Service Management Team</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Case Created</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>assignment_group.email,opened_by.email</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>[Status Update]: Case ${number}: ${record_producer.name} has been created</subject>
+        <subscribable>true</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-24 10:26:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>821b20592f2260106d73d49df699b6be</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Case Created</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Finance Serivce Management" source="x_568222_fsm">5c67a5f1db422010e420b080399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Serivce Management">5c67a5f1db422010e420b080399619ce</sys_scope>
+        <sys_update_name>sysevent_email_action_821b20592f2260106d73d49df699b6be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-04 10:37:50</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>
